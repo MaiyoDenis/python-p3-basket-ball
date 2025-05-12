@@ -1,4 +1,4 @@
-from basket_ball import (
+from basket_ball_functions import (
     num_points_per_game, player_age,
     team_colors, team_names,
     player_numbers, player_stats,
